@@ -6,6 +6,5 @@
 - - 😄 Pronouns: she/her
 - 📫 How to reach me: gtannu563@gmail.com
 - ⚡ Fun fact: Coding can “power up” your brain.
-- <!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-
+<!-- - 👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ... -->
