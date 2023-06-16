@@ -1,4 +1,4 @@
-                                                                        ** Heya!👋 I'm Tannu Goyal **
+ ### Heya!👋 I'm Tannu Goyal 
 
 - 🔭 I’m currently working on MERN-stack .
 - 🌱 I’m currently learning Node js
